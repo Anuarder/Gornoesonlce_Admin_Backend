@@ -11,7 +11,7 @@ module.exports = {
                 secure: true,
                 auth: {
                     user: "sales@gornoesolnce.kz",
-                    pass: "GornoeSolnce123"
+                    pass: ""
                 },
                 tls: {
                     rejectUnauthorized: false
